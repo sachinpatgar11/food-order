@@ -258,6 +258,10 @@ h1 {
     left: 50%;
     transform: translateX(-50%);
 }
+form .error {
+  background: none;
+  color: #df5d32;
+}
 
 @keyframes fade-slide-up {
   from {
