@@ -1,1 +1,1 @@
-[]
+[{"items":[{"id":"m2","name":"Margherita Pizza","price":"12.99","description":"A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.","image":"images/margherita-pizza.jpg","quantity":1}],"customer":{"name":"day week","email":"abc@example.com","street":"test saturn","postal-code":"12345","city":"citadel"},"id":"198.00872735830555"}]
